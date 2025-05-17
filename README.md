@@ -1,5 +1,7 @@
 About the project:
+
 ENG
+
 This project aims to predict wine quality based on the physicochemical properties of Portuguese red wines using machine learning.
 The Support Vector Regression (SVR) model was used to predict the quality scores.
 
@@ -9,6 +11,7 @@ The model can accurately predict a significant portion of the data, but still pe
 This suggests that there is room for improvement, and the model can be further optimized.
 
 TR
+
 Bu proje, Portekiz kırmızı şaraplarına ait fizikokimyasal özelliklere dayanarak şarap kalitesini tahmin etmeyi amaçlayan bir makine öğrenimi uygulamasıdır. 
 Destek Vektör Regresyonu (SVR) modeli kullanılarak kalite puanları tahmin edilmiştir.
 
